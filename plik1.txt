@@ -1,1 +1,2 @@
-edycja plik1.txt
+edycja plik1.txt12
+
